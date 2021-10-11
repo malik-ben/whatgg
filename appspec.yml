@@ -6,6 +6,7 @@ os: linux
 files:
   - source: /
     destination: /home/ubuntu/client/
+    overwrite: true
 
 
 hooks:
