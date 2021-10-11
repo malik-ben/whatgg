@@ -1,4 +1,4 @@
-cd /home/ubuntu/client
+cd /home/ubuntu/client/src
 npm start
 pm2 start npm --name "client" -- start
 pm2 startup
